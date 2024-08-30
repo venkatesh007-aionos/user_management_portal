@@ -1,0 +1,7 @@
+# install these two packages for app.py file
+
+pip install Flask,Flask_cors
+
+pip install psycopg2
+
+to run website you can use liver-server
